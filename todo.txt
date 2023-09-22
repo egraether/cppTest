@@ -1,0 +1,11 @@
+ToDo App:
+	* Title "ToDo App"
+	* List of ToDos
+		* method to mark each ToDo as done
+		* method to delete a ToDo
+	* 'Add ToDo' button
+		* Opens a popup
+		* Enter 'ToDo text' in text field
+		* Save button to create new ToDo
+		* Saving not allowed without text
+		* Cancel button to abort
