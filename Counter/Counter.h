@@ -1,4 +1,4 @@
-#ifndef __Counter__
+#ifndef __Counter__ // or #pragma once
 #define __Counter__
 
 class Counter {

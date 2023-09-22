@@ -1,10 +1,17 @@
-regular compilation command:
+compilation command:
+c++ -o <app_name> <...cpp_files>
+
+main compilation command:
 $ c++ -o main main.cpp Application/Application.cpp Counter/Counter.cpp
 $ ./main
 
 pre-processed compiliation command:
 $ c++ -o preprocessed_main preprocessed_main.cpp Application/Application.cpp Counter/Counter.cpp
 $ ./preprocessed_main
+
+second compiliation command:
+$ c++ -o second second.cpp Counter/Counter.cpp
+$ ./second
 
 C++ compilation:
 * compilation:
